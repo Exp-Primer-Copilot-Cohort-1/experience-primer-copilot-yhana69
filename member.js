@@ -1,1 +1,1 @@
-function skilsMember()
+function skillsMember()git add member.js
